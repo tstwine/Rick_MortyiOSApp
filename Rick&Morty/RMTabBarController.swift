@@ -4,9 +4,11 @@
 //
 //  Created by Tina Stith-Twine on 1/2/23.
 //
+// Left off- 1/2/23- @9:51 on Youtube
 
 import UIKit
 
+/// Controller to house tabs and root tab controller
 final class RMTabBarController: UITabBarController {
 
     override func viewDidLoad() {
